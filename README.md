@@ -1,2 +1,2 @@
 # For what? :
-Just an empty repo for testing Glith.com..
+Just an empty repo for testing glitch.com hosting platform...
